@@ -12,7 +12,7 @@ memcaml=camera_l
 memcamt=camera_t
 
 //slow motion updates
-if (!slowing) {
+if (!slowing && !instance_exists(PauseMenu)) {
     global.slomo=approach(global.slomo,global.slomoto,global.slomof)
     sound_kind_pitch(0,global.slomo*room_speed/global.game_speed)
     sound_kind_pitch(1,global.slomo*room_speed/global.game_speed)
