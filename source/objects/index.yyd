@@ -486,10 +486,11 @@ Fader
 CopySettings
 
 DialogEngine
-ExampleNpc
+NPCParent
 SectionWarp
 
 CameraRoomViewer
 TrapDestroy
 VLineFlipper
 Afterimage
+ExampleNpc
