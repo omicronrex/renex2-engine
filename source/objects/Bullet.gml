@@ -58,7 +58,11 @@ action_id=603
 applies_to=self
 */
 if (other.object_index=ShootBlock || other.object_index=ShootBlockBig) instance_destroy_id(other)
-if (other.solid) dead=1
+if (other.solid) {
+    dead=1
+    xprevious=x+hspeed
+    yprevious=y+vspeed
+}
 #define Draw_0
 /*"/*'/**//* YYD ACTION
 lib_id=1
