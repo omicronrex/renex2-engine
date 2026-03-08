@@ -217,7 +217,6 @@ applies_to=self
 */
 ///fields definition
 
-//field depth: number
 //field sound: string
 //field movement: false
     //field dir: angle

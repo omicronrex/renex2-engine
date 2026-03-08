@@ -32,4 +32,3 @@ applies_to=self
 //field hspeed: number
 //field vspeed: number
 //field gravity: number
-//field depth: number

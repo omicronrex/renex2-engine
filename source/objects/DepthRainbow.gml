@@ -11,10 +11,7 @@ lib_id=1
 action_id=603
 applies_to=self
 */
-//field depth: number
-
 /*preview
-    depth=Field("depth")
     shader_vertex_set_passthrough()
     shader_pixel_set(ShaderFromPack("ps3_rainbow"))
 */
