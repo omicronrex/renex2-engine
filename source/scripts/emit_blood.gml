@@ -1,6 +1,7 @@
 ///emit_blood(amount)
-var i,yes,num;
+var i,num,yes,setting;
 num=argument0
+setting=settings("bloodcoll")
 
 yes=instance_exists(Player)
 
