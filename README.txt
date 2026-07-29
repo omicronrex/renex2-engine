@@ -112,7 +112,10 @@
 
   Game Maker 8.1 has been deprecated as a platform. The engine has been
   developed and tested in 8.2 and is designed to make use of its new features.
-  You can find 8.2 and related resources in the support discord server.
+  
+  You can find 8.2 and related resources here:
+  
+  - https://gm82.cherry-treehouse.com
 
 
 --------------------------------------------------------------------------------
